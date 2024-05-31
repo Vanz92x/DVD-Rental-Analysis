@@ -4,6 +4,8 @@
 The DVD Rental database provides a comprehensive representation of the business processes involved in managing a DVD rental store. This well-structured database consists of 15 interrelated tables, each designed to capture various aspects of the store's operations, from managing inventory to tracking customer transactions. The relationships between these tables are illustrated in the following entity relationship diagram, which highlights how different entities within the database interact with one another.
 <div align="center"><img src="https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/7c2ae9e6-a063-4aa3-8544-3dba14b83e79" /></div>
 
+Source Data: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+
 ### Data Dictionary
 * Customers: Contains customer information such as names, addresses, and contact details.
 * Staff: Stores details about the staff members, including their roles and contact information.
