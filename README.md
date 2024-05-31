@@ -24,24 +24,43 @@ The DVD Rental database provides a comprehensive representation of the business 
 ## Question
 The DVD store manager has been given a case to analyze, and the analysis uses CTE to form a Datamart, and answers several questions as follows: (Note, from the CTE can look detail at CTE Query)
 
-### 1. Viewing rental income from films based on
+### 1. Viewing rental income from films based on:
 
-a) Film Title
+#### a) Film Title
 
-b) Film Rating
+![Film Title Image](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/65302146-813f-44bb-a9eb-d6968da6f4fe)
 
-c) Film Category
+#### b) Film Rating
 
+![Film Rating Image](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/5a6883db-3224-4f18-86e0-4aaa2603395e)
+
+
+#### c) Film Category
+
+![Film Category Image](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/7858b229-ef3c-4626-904d-c12efcf55c75)
 
 ### 2. Customer segmentation
-a) Rental Frequency
 
-b) Total Rental Cost
+#### a) Rental Frequency
 
-c) Type of films rented (film category and film rating)
+![Rental Frequency](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/a7784b0c-3061-41b7-81b4-93d50a112b72)
+
+#### b) Total Rental Cost
+
+![Total Rental Cost](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/2d555c2a-4427-4756-9645-e4e3d22393d0)
+
+#### c) Type of films rented (film category and film rating)
+
+![Type of films rented (film category and film rating](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/82598344-15f4-4481-9a27-7ed03c1cddfe)
 
 
 ### 3.Information on rental delays such as
-a) The films most frequently returned late
 
-b) Number of cancellations within a specific period
+#### a) The films most frequently returned late
+
+![The films most frequently returned late](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/40e0433e-01d6-4ffd-b354-dacf496f6be7)
+
+
+#### b) Number of cancellations within a specific period
+
+![Number of cancellations within a specific period](https://github.com/Vanz92x/DVD-Rental-Analysis/assets/165736197/b7fc35c2-c965-4cc4-849b-ee62cbc5d2b0)
