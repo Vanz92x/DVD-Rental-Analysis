@@ -1,4 +1,4 @@
-# DVD Rental Database Analysis Using CTE with SQL
+# Datamart DVD Rental Database Analysis Using CTE with SQL
 
 ## Data Understanding
 The DVD Rental database provides a comprehensive representation of the business processes involved in managing a DVD rental store. This well-structured database consists of 15 interrelated tables, each designed to capture various aspects of the store's operations, from managing inventory to tracking customer transactions. The relationships between these tables are illustrated in the following entity relationship diagram, which highlights how different entities within the database interact with one another.
